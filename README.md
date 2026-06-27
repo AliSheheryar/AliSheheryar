@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ali Sheheryar 👋</h1>
+<h1 align="center">Hi, I'm Ali Sheheryar </h1>
 
-<h3 align="center">🧠 AI Researcher · 👁️ Computer Vision · 🗣️ NLP / LLMs · 🎮 Reinforcement Learning</h3>
+<h3 align="center">🧠 AI Researcher ·  Computer Vision ·  NLP / LLMs ·  Reinforcement Learning</h3>
 
 <p align="center">
   <i>I build vision and language systems that actually ship — from real-time object detection on the edge to grounded RAG agents.</i>
